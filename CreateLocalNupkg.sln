@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPackage", "MyPackage\MyPackage.csproj", "{61DBE054-F0B0-4A9E-8602-646BB59BDC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportPackageTest", "ImportPackageTest\ImportPackageTest.csproj", "{166E41B8-CBC2-4F7A-BF97-09953BE50BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DBE054-F0B0-4A9E-8602-646BB59BDC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DBE054-F0B0-4A9E-8602-646BB59BDC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DBE054-F0B0-4A9E-8602-646BB59BDC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DBE054-F0B0-4A9E-8602-646BB59BDC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166E41B8-CBC2-4F7A-BF97-09953BE50BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166E41B8-CBC2-4F7A-BF97-09953BE50BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166E41B8-CBC2-4F7A-BF97-09953BE50BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166E41B8-CBC2-4F7A-BF97-09953BE50BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
